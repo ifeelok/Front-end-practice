@@ -1,0 +1,49 @@
+#outside{
+  position: relative;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #999;
+  background-color: #eee;
+  height: 420px;
+}
+#logo{
+  position: relative;
+  border: 1px solid #999;
+  width: 200px;
+  height: 120px;
+  padding: 20px;
+  background-color: #fff;
+}
+#logo img{
+  width: 80px;
+}
+#name{
+  position: absolute;
+  left: 130px;
+  top: 0px;
+}
+#right{
+  position:absolute;
+  right:20px;
+  top: 20px;
+  border: 1px solid #999;
+  width: 120px;
+  height: 420px;
+  background-color: #fff;
+}
+#right img{
+  width: 80px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+#middle{
+  border: 1px solid #999;
+  width: auto;
+  position: absolute;
+  left: 280px;
+  right: 160px;
+  top: 20px;
+}
+#middle p{
+  text-indent: 2em;
+}

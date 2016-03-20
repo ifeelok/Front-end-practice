@@ -1,0 +1,51 @@
+#outside{
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #999;
+  background-color: #eee;
+}
+#logo{
+  border: 1px solid #999;
+  width: 200px;
+  height: 120px;
+  /*margin: 20px;*/
+  background-color: #fff;
+  padding: 20px;
+  float: left;
+}
+#logo>img{
+  width: 80px;
+  height: 80px;
+  padding-top: 20px;
+  float: left;
+}
+#name{
+  float:right;
+  padding-right: 20px;
+}
+#middle{
+  background-color: #fff;
+  border: 1px solid #999;
+  width: auto;
+  margin-left: 260px;
+  margin-right: 140px;
+}
+#middle p{
+  text-indent: 2em;
+}
+#right{
+  float: right;
+  height: 420px;
+  width: 120px;
+  background-color: #fff;
+  border: 1px solid #999;
+}
+#right img{
+  width: 80px;
+  height: 80px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.clear{
+  clear:both;
+}
