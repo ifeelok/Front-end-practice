@@ -1,0 +1,8 @@
+/*设置页脚*/
+footer{
+  color: #fff;
+  background-color: #000;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}

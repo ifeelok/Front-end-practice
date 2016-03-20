@@ -1,0 +1,32 @@
+/*设置页眉*/
+.head{
+  width: 100%;
+  height: 50px;
+  background: #333;
+}
+.logo{
+  float: left;
+}
+.logo>img{
+  width:100px;
+  margin-top: 10px;
+}
+.view{
+  font-size: 0.75em;
+  color: #fff;
+}
+.view ul{
+  float: right;
+}
+.view ul li{
+  float: left;
+  width: 7em;
+  margin-top: 10px;
+  list-style-type: disc;
+}
+.view ul li a{
+  color: #bbb;
+}
+.view ul li a:hover{
+  color: #555;
+}

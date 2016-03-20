@@ -1,0 +1,43 @@
+/*设置左半部分*/
+.article{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: 400px;
+  background-color: #fff;
+  box-shadow: 2px 2px #888;
+  padding: 20px;
+  border-radius: 2px;
+}
+.spe{
+  text-indent: 2em;
+}
+/*设置图片流中图片的排列顺序*/
+.article figure{
+  float: left;
+}
+.article figure figcaption{
+  text-align: center;
+}
+
+/*第四篇文章中表格*/
+table {
+  border-collapse: collapse;
+}
+.firsttb table td,th{
+  border: 1px solid #bbb;
+  width: 30em;
+  height: 1.25em;
+  /*text-align: center;*/
+}
+th{
+  color: #fff;
+  background-color: #000;
+}
+tfoot tr td{
+  background-color: #bbb;
+}
+.lastUl ul{
+  list-style-type: decimal;
+  font-weight: bold;
+}
