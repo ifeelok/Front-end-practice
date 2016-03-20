@@ -1,0 +1,27 @@
+.rec{
+  /*border: 1px solid #000;*/
+  height: 200px;
+  width: 400px;
+  background-color: #eee;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+.cir1{
+  background-color: #f5d427;
+  width: 50px;
+  height: 50px;
+  border-bottom-right-radius: 50px;
+}
+.cir2{
+  background-color: #f5d427;
+  width: 50px;
+  height: 50px;
+  border-top-left-radius: 100px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}

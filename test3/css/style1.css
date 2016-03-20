@@ -5,6 +5,7 @@
   border: 1px solid #999;
   background-color: #eee;
   height: 420px;
+  overflow: auto;
 }
 #logo{
   position: relative;
