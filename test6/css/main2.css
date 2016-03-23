@@ -1,0 +1,77 @@
+.row2{
+  position: relative;
+}
+.r2c1{
+  /*border: 2px solid #000;*/
+  width: 228px;
+  height: auto;
+  margin-top: 40px
+}
+.r2c1 span{
+  font-family: Microsoft YaHei;
+  color: #418c59;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.7;
+}
+.r2c1 p{
+  font-size: 12px;
+  color: #767777;
+  font-family: SimSun;
+  line-height: 16px;
+}
+.r2c2{
+  /*border: 2px solid #000;*/
+  width: 200px;
+  height: auto;
+  position: absolute;
+  top:0px;
+  left:268px;
+  opacity: 0.7;
+}
+.r2c2 span{
+  font-family: Microsoft YaHei;
+  color: #d2994f;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: bold;
+}
+.r2c2 p{
+  font-size: 12px;
+  color: #231815;
+  font-family: Microsoft YaHei;
+  line-height: 16px;
+  opacity: 0.7;
+}
+.r2c3{
+  /*border: 2px solid #000;*/
+  width: 200px;
+  height: auto;
+  position: absolute;
+  top:0px;
+  left:505px;
+  opacity: 0.7;
+}
+.r2c3 span{
+  font-family: Microsoft YaHei;
+  color: #cc7680;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: bold;
+}
+.r2c3 p{
+  font-size: 12px;
+  color: #231815;
+  font-family: Microsoft YaHei;
+  line-height: 16px;
+  margin-bottom: 16px;
+  opacity: 0.7;
+}
+.r2c3 p span{
+  font-style: italic;
+  text-decoration: none;
+  font-weight: normal;
+  color: #cd4a48;
+  opacity: 0.7;
+}

@@ -1,0 +1,144 @@
+.r3c2{
+  position:absolute;
+  left: 430px;
+  top: 0px;
+}
+.pic img{
+  width: 458px;
+  height: 275px;
+}
+.pic{
+  position: relative;
+}
+.c2c1{
+  background-color: #000;
+  width: 458px;
+  height: 61px;
+  position: absolute;
+  bottom: 3px;
+  opacity: 0.5;
+}
+.c2c2{
+  width: 420px;
+  height: 44px;
+  position: absolute;
+  left: 38px;
+  bottom: 10px;
+  border-left: 3px solid #72b16a;
+}
+.c2c2 span{
+  line-height: 44px;
+  font-family: Microsoft YaHei;
+}
+.c2c2 span:first-child{
+  color: #ffffff;
+  font-size: 26px;
+}
+.c2c2 span.spec{
+  color: #72b16a;
+  font-size: 12px;
+  font-style: italic;
+}
+.pic2{
+  margin-top: 20px;
+  width: 459px;
+  height: 318px;
+  background-color: #eeedd6;
+  /*border: 1px solid #000;*/
+}
+.cu{
+  width: 459px;
+  height: 159px;
+  position: relative;
+}
+.cu ul{
+  list-style-type: square;
+  display: block;
+  position: absolute;
+  top:20px;
+  left:40px;
+}
+li{
+  text-align: left;
+  margin-bottom: 20px;
+  font-family: SimSun;
+  font-size: 16px;
+}
+li span{
+  font-size: 12px;
+  font-style: italic;
+}
+.pic3{
+  width: 459px;
+  height: 160px;
+  /*border: 1px solid #000;*/
+  position: relative;
+}
+.rc{
+  width: 260px;
+  height: 160px;
+  background-color: #d45d5c;
+  position: relative;
+}
+.p1{
+  width: 180px;
+  height: 160px;
+  /*border: 1px solid #000;*/
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  font-size: 14px;
+  font-family: SimHei;
+  color: #5a5b5b;
+
+}
+.p1 span:first-child{
+  font-size: 72px;
+  color: #d45d5c;
+  float: left;
+  line-height: 40px;
+  margin-left: -40px;
+  margin-bottom: -25px;
+}
+.p1 span{
+  font-size: 72px;
+  color: #d45d5c;
+  float: right;
+  line-height: 60px;
+}
+.left{
+  position: absolute;
+  top: 40px;
+  left:5px;
+  border-right: 2px solid #fff;
+  height: 86px;
+  width: 60px;
+
+}
+.left span{
+  font-family: Microsoft YaHei;
+  font-size: 110px;
+  color: #fff;
+  line-height: 86px;
+  font-weight: bold;
+}
+.right{
+  /*border: 2px solid #fff;*/
+  width: 180px;
+  height: 86px;
+  position: absolute;
+  right: 0px;
+  top: 40px;
+}
+.rt{
+  color: #fff;
+  font-size: 21px;
+  font-family: SimHei;
+  font-style: italic;
+}
+.rb{
+  color: #fff;
+  font-size: 12px;
+  font-family: SimHei;
+  font-style: italic;
+}
